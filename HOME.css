@@ -1,0 +1,126 @@
+*{
+    maragin:0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+body{
+    font-family: montserrat;
+    background-color: f1f1f1;
+}
+nav{
+    background: #0082e6;
+    height: 80px;
+    width: 100%;
+}
+label.logo{
+    color: white;
+    font-size: 35px;
+    line-height: 80px;
+    padding: 0 100px;
+    font-weight: bold;
+}
+nav ul{
+    float:right;
+    margin-right: 200px;
+}
+nav ul li{
+    color: white;
+    display: inline-block;
+    line-height: 50px;
+    margin: 0 12px;
+    font-size: large;
+}
+nav ul li a{
+    font-size: 17px;
+    padding: 7px 13px;
+    border-radius: 3px;
+    text-transform: uppercase;
+    transition: all .5 ease;
+}
+a.active,a:hover{
+    background-color:;
+}
+/*p0 css designing*/
+.p0{
+    font-size: 24px;
+}
+/*  home page first second paragraph designing*/
+.p1{
+    font-size: 24px;
+    
+}
+/* first image css designing*/
+.firstimage{
+    width: 600px;
+    height: 400px;
+    margin-left: 400px;
+    border-radius: 10px;
+}
+/*homep2 second paragraph p2 designing*/
+.homep2{
+    font-size: 24px;
+}
+/*homepage first heading designinig h1*/
+.heading1{
+    
+
+
+}
+/*secondimage css designing*/
+.secondimage{
+    margin-left: 500px;
+
+}
+/*homepage second headning2*/
+.heading2{
+    margin-left: 100px;
+    font-size: 40px;
+}
+/*3rd oaragraoh css desugning*/
+.paragraph3{
+    font-size: 24px;
+    width: 1500px;
+    color: black;
+
+}
+/*thirdimage3 css designing*/
+.thirdimage3{
+    margin-left: 230px;
+}
+.hr0{
+    background-color: #0082e6;
+    width: 580px;
+    height: 5px;
+    margin-left: 0px;
+}
+
+.paragraph4{
+    font-size: 24px;
+}
+
+.paragraph5{
+    font-size: 24px;
+}
+
+.paragraph6{
+    font-size: 24px;
+}
+
+.paragraph7{
+    font-size: 24px;
+}
+
+.paragraph8{
+    font-size: 24px;
+}
+
+.paragraph9{
+    font-size: 24px;
+}
+
+.paragraph10{
+    font-size: 24px;
+}
+    
